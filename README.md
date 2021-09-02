@@ -1,6 +1,6 @@
-# PHP GoogleTranslate free [![Build Status](https://travis-ci.org/statickidz/php-google-translate-free.svg?branch=master)](https://travis-ci.org/statickidz/php-google-translate-free)
+# PHP GoogleTranslate free
 
-Simple PHP library for talking to Google's Translate API for free.
+Simple PHP library for talking to Google's Translate internal browser API for free. (https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=table+is+table)
 
 Eliminates IP request limitations
 
